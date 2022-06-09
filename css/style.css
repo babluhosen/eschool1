@@ -1,0 +1,51 @@
+
+/*common start */
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+/*common end */
+/*header start */
+header{
+    background-color: #F0FFF0;
+}
+.logo{
+    width: 198.07px;
+    height: 59px;
+}
+.c_nav{
+
+}
+.menu{
+
+}
+.menu ul li a{  
+    line-height: 24px;
+    color: #000000 !important;
+    text-transform: capitalize;
+    padding: 0 24px !important;
+    
+}
+.menu ul li a:hover{
+    color: #FD511A !important;
+
+    
+}
+.btn_signColor{
+    width: 104px;
+    height: 43px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 19px;
+    color: white;
+    background: #21B573;
+    border: 0;
+    border-radius: 33px;
+ 
+}
+.btn_signColor:hover{
+    background-color: #FD511A !important;
+    color:white;
+}
+/*header end */
